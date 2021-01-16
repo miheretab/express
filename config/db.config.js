@@ -1,2 +1,2 @@
-var dbConfig = require('config.json');
+const dbConfig = require('../config/config.json');
 module.exports = dbConfig['development'];
