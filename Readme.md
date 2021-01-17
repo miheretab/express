@@ -4,6 +4,7 @@ Then run the following commands
  - `npm install`
  - `npm run start`
  - `sequelize db:seed:all` (to be run only once)
+ - `npm run test` (only used for testing app)
 
 1st end point
  - `POST /api/users/login`
